@@ -9,3 +9,4 @@ This project will serve as a hub for my creative endevours. Mainly it will be a 
 - **Photo and Video Gallery** for my favourite memories. 
 - **Project Gallery** displaying the apps I'm most proud of.
 
+*This is my first project in Next.js*
